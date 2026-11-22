@@ -1,6 +1,6 @@
 {
   "name": "@melt-js/libs-qiankun2-tabs-core",
-  "version": "2026.11.16-2",
+  "version": "2026.11.22",
   "entries": {
     "@melt-js/libs-qiankun2-tabs-core/page-cache": {
       "specifier": "@melt-js/libs-qiankun2-tabs-core/page-cache",
@@ -47,8 +47,8 @@
   },
   "resources": [],
   "imports": {
-    "@melt-js/libs-qiankun2-tabs-core/page-cache": "https://unpkg.com/@melt-js/libs-qiankun2-tabs-core@2026.11.16-2/dist/page-cache.js",
-    "@melt-js/libs-qiankun2-tabs-core": "https://unpkg.com/@melt-js/libs-qiankun2-tabs-core@2026.11.16-2/dist/index.js",
+    "@melt-js/libs-qiankun2-tabs-core/page-cache": "https://unpkg.com/@melt-js/libs-qiankun2-tabs-core@2026.11.22/dist/page-cache.js",
+    "@melt-js/libs-qiankun2-tabs-core": "https://unpkg.com/@melt-js/libs-qiankun2-tabs-core@2026.11.22/dist/index.js",
     "qiankun": "https://esm.sh/qiankun@2.10.16?external=vue,react,react-dom,react-is"
   },
   "styles": [],
